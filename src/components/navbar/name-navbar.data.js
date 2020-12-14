@@ -1,10 +1,12 @@
 export const NameNavbarData = [
     {
         title: "List of books",
-        path: "/"
+        path: "/",
+        key: 1
     },
     {
         title: "New book",
-        path: "/new-book"
+        path: "/new-book",
+        key: 2
     }
 ]

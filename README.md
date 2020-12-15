@@ -4,7 +4,9 @@ The goal of this project is to test my skills as a front-end developer. Using Re
 
 ## Images
 
-
+![alt text](https://github.com/sabrinaveras/lexter-frontend/blob/main/public/design/Captura%20de%20Tela%202020-12-15%20%C3%A0s%2017.53.14.png)
+![alt text](https://github.com/sabrinaveras/lexter-frontend/blob/main/public/design/Captura%20de%20Tela%202020-12-15%20%C3%A0s%2017.53.42.png)
+![alt text](https://github.com/sabrinaveras/lexter-frontend/blob/main/public/design/Captura%20de%20Tela%202020-12-15%20%C3%A0s%2017.53.56.png)
 
 ## Getting Started with Create React App
 
